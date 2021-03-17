@@ -34,7 +34,6 @@ int main()
 }
 ```
 ```
-```
 #include <stdio.h>
 int MYPOWER(int a, int b)
 {
